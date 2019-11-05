@@ -4,7 +4,7 @@
  * @Author: 
  * @Date: 2019-11-05 17:42:17
  * @LastEditors: 
- * @LastEditTime: 2019-11-05 17:50:46
+ * @LastEditTime: 2019-11-05 17:53:14
  -->
 # 小白的博客，记录学习工作的点点滴滴
 
@@ -28,7 +28,7 @@
 
 ## 历史文章列表
 
-  - [NGINX+HTTPS笔记](../src/NGINX+HTTPS笔记.md)
+  - [NGINX+HTTPS笔记](./src/nginx+https笔记.md)
   - [VUE/CLI3.0+TS初尝试](https://github.com/1292150917/blog/blob/master/src/VUE/CLI3.0+TS初尝试.md)
   - [数据迁移中]()
   - [数据迁移中]()
